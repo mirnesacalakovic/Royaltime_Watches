@@ -1,0 +1,41 @@
+body{
+  margin: 0;
+  padding: 0;
+  overflow-x: hidden;
+}
+
+
+/* width */
+::-webkit-scrollbar {
+  width: 10px;
+}
+
+/* Track */
+::-webkit-scrollbar-track {
+  background: #f1f1f109;
+}
+
+/* Handle */
+::-webkit-scrollbar-thumb {
+  background: #ED7D31;
+}
+
+/* Handle on hover */
+::-webkit-scrollbar-thumb:hover {
+  background: #c64f00;
+}
+
+@media screen and (max-width: 768px) {
+  .header-list {
+    flex-wrap: wrap;
+    justify-content: center;
+    margin: 0;
+  }
+  .header-list-item {
+    margin: 0;
+    padding: 5px !important;
+  }
+  
+}
+
+

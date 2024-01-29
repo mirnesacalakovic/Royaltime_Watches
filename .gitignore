@@ -1,0 +1,11 @@
+postgres-data/
+Royaltime.APIGateway/appsettings.Development.json
+Royaltime.APIGateway/appsettings.json
+docker-compose.yml
+client/package-lock.json
+Royaltime.APIGateway/bin/Debug/net7.0/appsettings.Development.json
+Royaltime.APIGateway/bin/Debug/net7.0/appsettings.json
+Royaltime.Auth/API/appsettings.Development.json
+Royaltime.Basket/API/appsettings.Development.json
+Royaltime.Main/API/appsettings.Development.json
+Royaltime.Payments/API/appsettings.Development.json

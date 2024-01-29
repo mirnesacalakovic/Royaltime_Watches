@@ -1,0 +1,46 @@
+.MuiContainer-root .MuiContainer-maxWidthLg .css-jri721-MuiContainer-root{
+    margin: 0;
+    padding: 0;
+}
+.MuiContainer-root .MuiContainer-maxWidthLg .css-jri721-MuiContainer-root {
+    margin: 0;
+    padding: 0;
+
+}
+.main-container {
+    display: flex;
+    flex-direction: row;
+    height: calc(100vh - 88px);
+    margin-top: -15px;
+    margin-left: -60px;
+    justify-content: space-evenly;
+}
+.login-picture {
+    width: 80%;
+    display: flex;
+    justify-content: flex-end;
+    align-items: center;
+    background-image: url("./login.jpg");
+    background-size: cover;
+    background-position: center;
+    width: 1200px;
+}
+
+.reg-cont {
+    display: flex;
+    flex-direction: row;
+}
+
+@media (min-width: 600px) {
+    .reg-img {
+        width: 0;
+    }
+    
+}
+
+@media screen and (max-width: 600px) {
+   img {
+        display: none;
+   };
+    
+}

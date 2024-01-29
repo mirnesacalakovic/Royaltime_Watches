@@ -1,0 +1,17 @@
+.css-1u4zpwo-MuiSvgIcon-root-MuiStepIcon-root.Mui-completed {
+    color: #f0530f !important;
+}
+
+.css-1u4zpwo-MuiSvgIcon-root-MuiStepIcon-root.Mui-active {
+    color: #ED7D31 !important;
+}
+.css-1darqsn-MuiButtonBase-root-MuiButton-root-MuiLoadingButton-root:disabled {
+    background-color: transparent !important;
+}
+
+.css-1darqsn-MuiButtonBase-root-MuiButton-root-MuiLoadingButton-root:hover {
+    background-color: #f0530f !important;
+}
+.css-1darqsn-MuiButtonBase-root-MuiButton-root-MuiLoadingButton-root{
+    background-color: #ED7D31 !important;	
+}

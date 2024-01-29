@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "zKPYwSdNfwQQbeATX6GdtuD6lZEduAEvv/Npylmk8PE=",
+  "Source": "Royaltime.APIGateway",
+  "BasePath": "_content/Royaltime.APIGateway",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}

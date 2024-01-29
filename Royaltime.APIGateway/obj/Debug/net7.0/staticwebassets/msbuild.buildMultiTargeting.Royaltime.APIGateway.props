@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="..\build\Royaltime.APIGateway.props" />
+</Project>
